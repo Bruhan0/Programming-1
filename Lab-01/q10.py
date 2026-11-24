@@ -11,5 +11,3 @@ else:
         print("You are eligible.")
     else:
         print("You are not eligible.")
-#test case:
-#Valid: attented=80 & classes=80 ; 100% & eligible
